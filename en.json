@@ -1,0 +1,8 @@
+{
+  "グラフィックボタン": "Graphic button",
+  "通常の状態とホバー状態のための画像を使用してボタンを作成できます。さらに、クリックしたとき、ホバーしたとき、ホバーから出るときに音声を追加することもできます。": "You can create a button using images for the normal state and hover state. Additionally, you can also add sounds when clicked, hovered, and when leaving hover.",
+  "カスタムボタンを画像と音声を使って作成することができます。": "You can create a custom button using images and sounds.",
+  "タイトル名": "GButton",
+  "": "",
+  "": ""
+}
