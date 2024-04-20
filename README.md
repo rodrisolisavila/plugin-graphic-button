@@ -1,4 +1,4 @@
-Tyrano Builder Plugin Graphic button
+# Tyrano Builder Plugin Graphic button
 
 You can create a button using images for the normal state and hover state. Additionally, you can also add sounds when clicked, hovered, and when leaving hover.
 
